@@ -1,4 +1,6 @@
-// Lista de Array completa com tratamento de erros do usuário.
+// Lista de Array com tratamento de erros do usuário.
+// O número negativo é adicionado na Lista B e o positivo em A.
+//O Loop cria o vetor a partir da entrada do usuário e exibe as listas no final.
 
 import java.util.Scanner;
 import java.util.ArrayList;
